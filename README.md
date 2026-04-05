@@ -5,6 +5,7 @@ The system is connected to the Google Sheets platform (Google Excel Sheet), wher
   <img src="IMG-20251013-WA0019.jpg" width="45%" /> 
   <img src="IMG-20251013-WA0020.jpg" width="45%" />
   <img src="IMG-20251013-WA0022.jpg" width="45%" />
-  <img src="VID-20251013-WA0009.mp4" width="45%" />
+  <img src="VID-20251013-WA0010.mp4" width="45%" />
+  <img src="WhatsApp Image 2025-10-13 at 23.12.24_71086de6.jpg" width="45%" />
 </p>
 <p align="center"><i>RFID Attendance System (terna college project)</i></p>
