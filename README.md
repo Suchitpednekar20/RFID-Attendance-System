@@ -2,10 +2,9 @@ The RFID Attendance System is an automated attendance management solution design
 
 The system is connected to the Google Sheets platform (Google Excel Sheet), where all attendance data is stored in real-time. This eliminates the need for manual record keeping and ensures that attendance data can be easily accessed, analyzed, and managed from anywhere with an internet connection.
 <p align="center">
-  <img src="IMG-20251013-WA0019.jpg" width="45%" /> 
+  <img src="IMG-20251013-WA0019.jpg" width="25%" /> 
   <img src="IMG-20251013-WA0020.jpg" width="45%" />
   <img src="IMG-20251013-WA0022.jpg" width="45%" />
   <img src="VID-20251013-WA0010.mp4" width="45%" />
-  <img src="WhatsApp Image 2025-10-13 at 23.12.24_71086de6.jpg" width="45%" />
 </p>
 <p align="center"><i>RFID Attendance System (terna college project)</i></p>
