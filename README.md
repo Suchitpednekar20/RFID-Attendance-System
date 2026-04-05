@@ -7,4 +7,4 @@ The system is connected to the Google Sheets platform (Google Excel Sheet), wher
   <img src="IMG-20251013-WA0022.jpg" width="45%" />
   <img src="VID-20251013-WA0009.mp4" width="45%" />
 </p>
-<p align="center"><i>Main LT Panel and Component Wiring (Lechler India Internship)</i></p>
+<p align="center"><i>RFID Attendance System (terna college project)</i></p>
