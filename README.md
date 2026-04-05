@@ -1,3 +1,10 @@
 The RFID Attendance System is an automated attendance management solution designed to record and store attendance data efficiently using RFID (Radio Frequency Identification) technology. Each user (student/employee) is provided with a unique RFID card or tag. When the card is tapped on the RFID reader, the system automatically identifies the user and records the date and time of attendance.
 
 The system is connected to the Google Sheets platform (Google Excel Sheet), where all attendance data is stored in real-time. This eliminates the need for manual record keeping and ensures that attendance data can be easily accessed, analyzed, and managed from anywhere with an internet connection.
+<p align="center">
+  <img src="IMG-20251013-WA0019.jpg" width="45%" /> 
+  <img src="IMG-20251013-WA0020.jpg" width="45%" />
+  <img src="IMG-20251013-WA0022.jpg" width="45%" />
+  <img src="VID-20251013-WA0009.mp4" width="45%" />
+</p>
+<p align="center"><i>Main LT Panel and Component Wiring (Lechler India Internship)</i></p>
